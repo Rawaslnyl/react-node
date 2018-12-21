@@ -1,0 +1,61 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "react 基础",
+      "body": "React 可以非常轻松地创建用户交互界面。为你应用的每一个状态设计简洁的视图,在数据改变时 React 也可以高效地更新渲染界面。 以声明式编写UI,可以让你的代码..."
+    },
+    {
+      "id": 2,
+      "title": "vue 基础",
+      "body": "vue可以非常轻松地创建用户交互界面。为你应用的每一个状态设计简洁的视图,在数据改变时 React 也可以高效地更新渲染界面。 以声明式编写UI,可以让你的代码..."
+    }
+  ],
+  "comments": [
+    {
+      "id": "djj464646463221233ll",
+      "txt": "react 值得入手",
+      "postId": 1
+    },
+    {
+      "id": "djj4634412365l",
+      "txt": "react 物有所值",
+      "postId": 1
+    },
+    {
+      "id": "fsff3333633333jl",
+      "txt": "vue 简单，势合形离手✧*｡٩(ˊᗜˋ*)و✧*｡",
+      "postId": 2
+    },
+    {
+      "txt": "sdd",
+      "postId": "1",
+      "id": "Wq0qm~S"
+    },
+    {
+      "txt": "sdd",
+      "postId": "1",
+      "id": "kqmKMa6"
+    },
+    {
+      "txt": "ss",
+      "postId": "1",
+      "id": "S1864AU"
+    },
+    {
+      "txt": "332",
+      "postId": "1",
+      "id": "v1ZF24n"
+    },
+    {
+      "txt": "fsgrg",
+      "postId": "1",
+      "id": "vYAtpEk"
+    },
+    {
+      "txt": "kjk",
+      "postId": "1",
+      "id": "5yCn50i"
+    }
+  ]
+}
